@@ -7,4 +7,5 @@ As you know, attendance is important to our education model. **Students are expe
 For future sessions, please make sure to meet the attendance requirements so that you’ll receive the credit for those sessions.
 
 All the best,
+
 CodePath&#46;org Team
